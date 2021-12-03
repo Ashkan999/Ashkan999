@@ -11,4 +11,4 @@ Currently, I'm learning React Native and Firebase by developing a productivity a
 
 Please feel free to have a look at my projects and don't hesitate to reach out for any questions. 😄
 
-📫 My email is ashkan.amou@gmail.com
+📫 You can reach me at ashkan.amou@gmail.com.
